@@ -1,0 +1,24 @@
+#surefire
+#Mon Apr 24 12:25:58 CDT 2017
+testClassesDirectory=C\:\\Users\\administradorcito\\Desktop\\proyectos\\hola-mundo\\target\\test-classes
+classPathUrl.2=C\:\\Users\\administradorcito\\.m2\\repository\\junit\\junit\\4.8.1\\junit-4.8.1.jar
+useManifestOnlyJar=true
+classPathUrl.1=C\:\\Users\\administradorcito\\Desktop\\proyectos\\hola-mundo\\target\\classes
+reportsDirectory=C\:\\Users\\administradorcito\\Desktop\\proyectos\\hola-mundo\\target\\surefire-reports
+classPathUrl.0=C\:\\Users\\administradorcito\\Desktop\\proyectos\\hola-mundo\\target\\test-classes
+providerConfiguration=org.apache.maven.surefire.junit4.JUnit4Provider
+testSuiteDefinitionTestSourceDirectory=C\:\\Users\\administradorcito\\Desktop\\proyectos\\hola-mundo\\src\\test\\java
+surefireClassPathUrl.1=C\:\\Users\\administradorcito\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-api\\2.12.4\\surefire-api-2.12.4.jar
+surefireClassPathUrl.0=C\:\\Users\\administradorcito\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-junit4\\2.12.4\\surefire-junit4-2.12.4.jar
+runOrder=filesystem
+useSystemClassLoader=true
+excludes0=**/*$*
+isTrimStackTrace=true
+tc.0=com.beeva.app.AppTest
+enableAssertions=true
+includes2=**/*TestCase.java
+failIfNoTests=false
+includes1=**/*Test.java
+runStatisticsFile=C\:\\Users\\administradorcito\\Desktop\\proyectos\\hola-mundo\\.surefire-6F5BD16CE4DFBAA58581D2E600253D8A5BFDB33C
+includes0=**/Test*.java
+childDelegation=false
